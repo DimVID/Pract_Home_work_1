@@ -1,0 +1,15 @@
+D:\Обучение в GeekBrains\C#\Home_work_1\work_1.1\obj\Debug\net6.0\work_1.1.csproj.AssemblyReference.cache
+D:\Обучение в GeekBrains\C#\Home_work_1\work_1.1\obj\Debug\net6.0\work_1.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение в GeekBrains\C#\Home_work_1\work_1.1\obj\Debug\net6.0\work_1.1.AssemblyInfoInputs.cache
+D:\Обучение в GeekBrains\C#\Home_work_1\work_1.1\obj\Debug\net6.0\work_1.1.AssemblyInfo.cs
+D:\Обучение в GeekBrains\C#\Home_work_1\work_1.1\obj\Debug\net6.0\work_1.1.csproj.CoreCompileInputs.cache
+D:\Обучение в GeekBrains\C#\Home_work_1\work_1.1\bin\Debug\net6.0\work_1.1.exe
+D:\Обучение в GeekBrains\C#\Home_work_1\work_1.1\bin\Debug\net6.0\work_1.1.deps.json
+D:\Обучение в GeekBrains\C#\Home_work_1\work_1.1\bin\Debug\net6.0\work_1.1.runtimeconfig.json
+D:\Обучение в GeekBrains\C#\Home_work_1\work_1.1\bin\Debug\net6.0\work_1.1.dll
+D:\Обучение в GeekBrains\C#\Home_work_1\work_1.1\bin\Debug\net6.0\work_1.1.pdb
+D:\Обучение в GeekBrains\C#\Home_work_1\work_1.1\obj\Debug\net6.0\work_1.1.dll
+D:\Обучение в GeekBrains\C#\Home_work_1\work_1.1\obj\Debug\net6.0\refint\work_1.1.dll
+D:\Обучение в GeekBrains\C#\Home_work_1\work_1.1\obj\Debug\net6.0\work_1.1.pdb
+D:\Обучение в GeekBrains\C#\Home_work_1\work_1.1\obj\Debug\net6.0\work_1.1.genruntimeconfig.cache
+D:\Обучение в GeekBrains\C#\Home_work_1\work_1.1\obj\Debug\net6.0\ref\work_1.1.dll
